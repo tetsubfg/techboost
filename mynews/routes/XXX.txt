@@ -1,0 +1,2 @@
+// XXXにアクセスでAAAControllerのbbbというAction に渡す
+Route::get('XXX', 'XXX/AAAController@bbb');
