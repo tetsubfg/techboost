@@ -45,7 +45,7 @@
           </ul>
 
           <!-- Right Side Of Navbar -->
-          <ul class="navbar-nav nr-auto">
+          <ul class="navbar-nav ml-auto">
           </ul>
         </div>
       </div>
